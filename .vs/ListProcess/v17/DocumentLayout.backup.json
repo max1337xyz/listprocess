@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jp\\Desktop\\Lerning cpp\\ListProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77D3077-B643-4B41-99DE-B67CFE3CD911}|ListProcess\\ListProcess.vcxproj|C:\\Users\\jp\\Desktop\\Lerning cpp\\ListProcess\\ListProcess\\ListProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A77D3077-B643-4B41-99DE-B67CFE3CD911}|ListProcess\\ListProcess.vcxproj|solutionrelative:ListProcess\\ListProcess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListProcess.cpp",
+              "DocumentMoniker": "C:\\Users\\jp\\Desktop\\Lerning cpp\\ListProcess\\ListProcess\\ListProcess.cpp",
+              "RelativeDocumentMoniker": "ListProcess\\ListProcess.cpp",
+              "ToolTip": "C:\\Users\\jp\\Desktop\\Lerning cpp\\ListProcess\\ListProcess\\ListProcess.cpp",
+              "RelativeToolTip": "ListProcess\\ListProcess.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T11:58:39.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
